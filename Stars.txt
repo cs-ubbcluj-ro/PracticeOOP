@@ -1,0 +1,4 @@
+Star1,Andromeda,12,23,4
+Star2,Casiopeea,14,25,6
+Star2,Casiopeea,16,34,8
+Star3,Scorpion,12,38,9
